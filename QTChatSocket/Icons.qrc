@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/profile.svg</file>
+        <file>imgs/close-black.svg</file>
+        <file>imgs/close-white.svg</file>
+        <file>imgs/starBackground.gif</file>
+        <file>imgs/Background_shooting_star.gif</file>
+        <file>imgs/arrow-down.svg</file>
+        <file>imgs/arrow-up-bold.svg</file>
+        <file>imgs/min.svg</file>
+        <file>imgs/max2.svg</file>
+        <file>imgs/max1.svg</file>
+        <file>imgs/chat-bubble.svg</file>
+        <file>imgs/chat-bubble-solid.svg</file>
+        <file>imgs/file.svg</file>
+        <file>imgs/settings.svg</file>
+        <file>imgs/settings-black.svg</file>
+        <file>imgs/user-plus.svg</file>
+        <file>imgs/user-plus-black.svg</file>
+        <file>imgs/emoji.svg</file>
+        <file>imgs/mainBackground.svg</file>
+        <file>imgs/blue-background.svg</file>
+        <file>imgs/user-black.svg</file>
+        <file>imgs/user.svg</file>
+        <file>imgs/chat-background.svg</file>
+        <file>imgs/user-delete.svg</file>
+    </qresource>
+</RCC>

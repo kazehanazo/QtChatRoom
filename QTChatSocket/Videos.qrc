@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>videos/starBackground.mp4</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "QTChatScoket\\out\\build\\x64-Debug",
+      "QTChatScoket\\out\\install\\x64-Debug"
+    ]
+  }
+}
